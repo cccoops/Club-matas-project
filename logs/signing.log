@@ -1,0 +1,116 @@
+source:
+	/private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle
+keystore:
+	[0] 161a0018 /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/temp_7760952451115772945_debug.keystore (DEBUG_EMBEDDED)
+
+01. config.armeabi_v7a.apk
+	WARNING: already signed - will be resigned. Old certificate info: [v1, v2, v3]
+		Subject: Subject: CN=matas, OU=matas, O=matas, L=matas, ST=matas, C=dk
+		SHA256: 03e092e5057213e4c84d40274ceb4d7a7452597d4bbd4fa2accd1b2ffd59760d
+
+	SIGN
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.armeabi_v7a.apk (8.32 MiB)
+	checksum: a99690797c603156f7ce4d2704b622feac5789391b56657a804ff77564c03c5 (sha256)
+	- sign success
+
+	VERIFY
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.armeabi_v7a.apk (8.32 MiB)
+	checksum: 8d22c948ff1aa61ed96f7e85bd3729ff42133d3fab62a79c32ed2a0bfc75db61 (sha256)
+	- signature verified [v1, v2, v3]
+		Subject: CN=Android Debug, OU=Android, O=US, L=US, ST=US, C=US
+		SHA256: 1e08a903aef9c3a721510b64ec764d01d3d094eb954161b62544ea8f187b5953 / SHA256withRSA
+		Expires: Thu Mar 10 21:10:05 CET 2044
+
+02. config.en.apk
+	WARNING: already signed - will be resigned. Old certificate info: [v1, v2, v3]
+		Subject: Subject: CN=matas, OU=matas, O=matas, L=matas, ST=matas, C=dk
+		SHA256: 03e092e5057213e4c84d40274ceb4d7a7452597d4bbd4fa2accd1b2ffd59760d
+
+	SIGN
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.en.apk (0.06 MiB)
+	checksum: c82b6de368ace9842103bb338967bef9d7b381b9a3989e86997032dd3d2c550 (sha256)
+	- sign success
+
+	VERIFY
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.en.apk (0.05 MiB)
+	checksum: aa82003b069b81b2eacd52b8407b142bc37d93620a689a58245a59f67c0f752a (sha256)
+	- signature verified [v1, v2, v3]
+		Subject: CN=Android Debug, OU=Android, O=US, L=US, ST=US, C=US
+		SHA256: 1e08a903aef9c3a721510b64ec764d01d3d094eb954161b62544ea8f187b5953 / SHA256withRSA
+		Expires: Thu Mar 10 21:10:05 CET 2044
+
+03. config.in.apk
+	WARNING: already signed - will be resigned. Old certificate info: [v1, v2, v3]
+		Subject: Subject: CN=matas, OU=matas, O=matas, L=matas, ST=matas, C=dk
+		SHA256: 03e092e5057213e4c84d40274ceb4d7a7452597d4bbd4fa2accd1b2ffd59760d
+
+	SIGN
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.in.apk (0.03 MiB)
+	checksum: 7d1c4bf79f5283da79cc10296df982f5fb177d11059aaf13a8cbfd7498c2486c (sha256)
+	- sign success
+
+	VERIFY
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.in.apk (0.03 MiB)
+	checksum: 135c713959a501a766c85c01614ba027770e47940782b3eb7f50d783f354c4e4 (sha256)
+	- signature verified [v1, v2, v3]
+		Subject: CN=Android Debug, OU=Android, O=US, L=US, ST=US, C=US
+		SHA256: 1e08a903aef9c3a721510b64ec764d01d3d094eb954161b62544ea8f187b5953 / SHA256withRSA
+		Expires: Thu Mar 10 21:10:05 CET 2044
+
+04. config.mdpi.apk
+	WARNING: already signed - will be resigned. Old certificate info: [v1, v2, v3]
+		Subject: Subject: CN=matas, OU=matas, O=matas, L=matas, ST=matas, C=dk
+		SHA256: 03e092e5057213e4c84d40274ceb4d7a7452597d4bbd4fa2accd1b2ffd59760d
+
+	SIGN
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.mdpi.apk (0.46 MiB)
+	checksum: 1587b9c09307de7fb1256eb5e167238ddf470259cd0c4cc31171169b2de55973 (sha256)
+	- sign success
+
+	VERIFY
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.mdpi.apk (0.45 MiB)
+	checksum: ad7b53bbec5658bca84f71042991037adcb7ac961df14b08ce7bf55e72b4953b (sha256)
+	- signature verified [v1, v2, v3]
+		Subject: CN=Android Debug, OU=Android, O=US, L=US, ST=US, C=US
+		SHA256: 1e08a903aef9c3a721510b64ec764d01d3d094eb954161b62544ea8f187b5953 / SHA256withRSA
+		Expires: Thu Mar 10 21:10:05 CET 2044
+
+05. config.ms.apk
+	WARNING: already signed - will be resigned. Old certificate info: [v1, v2, v3]
+		Subject: Subject: CN=matas, OU=matas, O=matas, L=matas, ST=matas, C=dk
+		SHA256: 03e092e5057213e4c84d40274ceb4d7a7452597d4bbd4fa2accd1b2ffd59760d
+
+	SIGN
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.ms.apk (0.03 MiB)
+	checksum: 6380405860102b3c2a6dc27dcab089cc12d3207d19ef3c03a6dfd8422e143c65 (sha256)
+	- sign success
+
+	VERIFY
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/config.ms.apk (0.03 MiB)
+	checksum: 304a4bbf580e9aeacabee364fe2325d12254742ae922f850e242f009a5f40e7f (sha256)
+	- signature verified [v1, v2, v3]
+		Subject: CN=Android Debug, OU=Android, O=US, L=US, ST=US, C=US
+		SHA256: 1e08a903aef9c3a721510b64ec764d01d3d094eb954161b62544ea8f187b5953 / SHA256withRSA
+		Expires: Thu Mar 10 21:10:05 CET 2044
+
+06. matas.matas.apk
+	WARNING: already signed - will be resigned. Old certificate info: [v1, v2, v3]
+		Subject: Subject: CN=Android Debug, OU=Android, O=US, L=US, ST=US, C=US
+		SHA256: 1e08a903aef9c3a721510b64ec764d01d3d094eb954161b62544ea8f187b5953
+
+	SIGN
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/matas.matas.apk (34.17 MiB)
+	checksum: 81203ab4f96a1fa69ca67bf7a81b9547972d9f8dd4e38a105d0b14f33367686e (sha256)
+	- sign success
+
+	VERIFY
+	file: /private/var/folders/8p/j07785t514gc39wtcnnlpfnr0000gn/T/apk-mitm-eafc414bb8f7a29eb86b6b5cb71b8865/bundle/matas.matas.apk (34.17 MiB)
+	checksum: 24070c6be7a5c83c1c1daaa9ab9ed7704aa8198ceeba7c47046687ff693785d6 (sha256)
+	- signature verified [v1, v2, v3]
+		6 warnings
+		Subject: CN=Android Debug, OU=Android, O=US, L=US, ST=US, C=US
+		SHA256: 1e08a903aef9c3a721510b64ec764d01d3d094eb954161b62544ea8f187b5953 / SHA256withRSA
+		Expires: Thu Mar 10 21:10:05 CET 2044
+
+[Thu May 01 09:45:16 CEST 2025][v1.3.0]
+Successfully processed 6 APKs and 0 errors in 4.68 seconds.
